@@ -1,6 +1,9 @@
 ### Hi there, my name is Gregor, you can also call me newbie 👋
 
-🌱 I’m currently learning at neue fische bootcamp
+🌱 I’m currently learning at [neue fische bootcamp](https://www.neuefische.de/)
+
+![description of image](https://gregorsart.com/assets/imgs/gregorsart-logo.svg)
+
 
 
 <!--
