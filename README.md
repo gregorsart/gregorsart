@@ -2,9 +2,7 @@
 
 🌱 I’m currently learning at [neue fische bootcamp](https://www.neuefische.de/)
 
-![description of image](https://gregorsart.com/assets/imgs/gregorsart-logo.svg)
-
-
+![Cat drinking from of a cup](https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif)
 
 <!--
 **gregorsart/gregorsart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
