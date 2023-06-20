@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, my name is Gregor, you can also call me newbie 👋
+
+🌱 I’m currently learning at neue fische bootcamp
+
 
 <!--
 **gregorsart/gregorsart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
